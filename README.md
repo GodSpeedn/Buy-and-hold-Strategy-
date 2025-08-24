@@ -6,4 +6,4 @@ I’m starting my journey into algorithmic trading and quantitative trading, and
 
 This project is mainly a learning experience, and I’ll be building more complex strategies as I progress in my journey.
 
-📺 You can check out a walkthrough of this project on my YouTube channel here: 
+📺 You can check out a walkthrough of this project on my YouTube channel here: https://youtu.be/1xEc-Z-qEcw
